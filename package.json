@@ -58,5 +58,8 @@
   "bugs": {
     "url": "https://github.com/JaneliaSciComp/SharkViewer/issues"
   },
-  "homepage": "https://github.com/JaneliaSciComp/SharkViewer#readme"
+  "homepage": "https://github.com/JaneliaSciComp/SharkViewer#readme",
+  "dependencies": {
+    "@janelia/three-orbit-unlimited-controls": "^1.0.3"
+  }
 }
